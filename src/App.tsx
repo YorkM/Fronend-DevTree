@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <h1>DevTree</h1>
+      <h1 className="text-center">DevTree</h1>
     </>
   )
 }
